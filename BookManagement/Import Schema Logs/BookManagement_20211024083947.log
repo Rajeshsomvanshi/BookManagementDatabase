@@ -1,0 +1,86 @@
+24-10-2021 14:09:47	This log contains information about the import schema operation into project 'BookManagement' on computer 'DESKTOP-PM5724I' by user 'renuk'.
+24-10-2021 14:09:47	Import of database schema has started.
+24-10-2021 14:09:52	Gathering database credentials
+24-10-2021 14:09:52	Gathering database options
+24-10-2021 14:09:52	Gathering generic database scoped configuration option
+24-10-2021 14:09:52	Gathering users
+24-10-2021 14:09:52	Gathering roles
+24-10-2021 14:09:52	Gathering application roles
+24-10-2021 14:09:52	Gathering role memberships
+24-10-2021 14:09:52	Gathering filegroups
+24-10-2021 14:09:52	Gathering full-text catalogs
+24-10-2021 14:09:52	Gathering assemblies
+24-10-2021 14:09:52	Gathering certificates
+24-10-2021 14:09:52	Gathering asymmetric keys
+24-10-2021 14:09:52	Gathering symmetric keys
+24-10-2021 14:09:52	Gathering encrypted symmetric keys
+24-10-2021 14:09:52	Gathering schemas
+24-10-2021 14:09:52	Gathering XML schema collections
+24-10-2021 14:09:52	Gathering user-defined data types
+24-10-2021 14:09:52	Gathering user-defined types
+24-10-2021 14:09:52	Gathering table types
+24-10-2021 14:09:52	Gathering unique keys for table types
+24-10-2021 14:09:52	Gathering primary keys for table types
+24-10-2021 14:09:52	Gathering indexes for table types
+24-10-2021 14:09:53	Gathering check constraints for table types
+24-10-2021 14:09:53	Gathering default constraints for table types
+24-10-2021 14:09:53	Gathering partition functions
+24-10-2021 14:09:53	Gathering partition schemes
+24-10-2021 14:09:53	Gathering functions
+24-10-2021 14:09:53	Gathering encrypted functions
+24-10-2021 14:09:53	Gathering aggregates
+24-10-2021 14:09:53	Gathering procedures
+24-10-2021 14:09:53	Gathering encrypted procedures
+24-10-2021 14:09:53	Gathering tables
+24-10-2021 14:09:53	Gathering primary keys
+24-10-2021 14:09:53	Gathering unique constraints
+24-10-2021 14:09:53	Gathering foreign keys
+24-10-2021 14:09:53	Gathering default constraints
+24-10-2021 14:09:53	Gathering check constraints
+24-10-2021 14:09:53	Gathering views
+24-10-2021 14:09:53	Gathering encrypted views
+24-10-2021 14:09:53	Gathering indexes
+24-10-2021 14:09:53	Gathering statistics
+24-10-2021 14:09:53	Gathering full-text index stoplists
+24-10-2021 14:09:53	Gathering search property lists
+24-10-2021 14:09:53	Gathering search properties
+24-10-2021 14:09:53	Gathering full-text indexes
+24-10-2021 14:09:53	Gathering column store indexes
+24-10-2021 14:09:53	Gathering spatial indexes
+24-10-2021 14:09:53	Gathering XML indexes
+24-10-2021 14:09:53	Gathering Selective XML indexes
+24-10-2021 14:09:53	Gathering encrypted triggers
+24-10-2021 14:09:53	Gathering triggers
+24-10-2021 14:09:54	Gathering encrypted and clr ddl triggers
+24-10-2021 14:09:54	Gathering ddl triggers
+24-10-2021 14:09:54	Creating edge constraints
+24-10-2021 14:09:54	Gathering synonyms
+24-10-2021 14:09:54	Gathering defaults
+24-10-2021 14:09:54	Gathering data constraint uddt bindings
+24-10-2021 14:09:54	Gathering rules
+24-10-2021 14:09:54	Gathering data constraint uddt bindings
+24-10-2021 14:09:54	Gathering message types
+24-10-2021 14:09:54	Gathering queues
+24-10-2021 14:09:54	Gathering contracts
+24-10-2021 14:09:54	Gathering services
+24-10-2021 14:09:54	Gathering event notifications
+24-10-2021 14:09:54	Gathering remote service bindings
+24-10-2021 14:09:54	Gathering broker priorities
+24-10-2021 14:09:54	Gathering signatures
+24-10-2021 14:09:54	Gathering data compression options
+24-10-2021 14:09:54	Gathering sequence types
+24-10-2021 14:09:54	Gathering security policies
+24-10-2021 14:09:54	Gather column encryption keys
+24-10-2021 14:09:54	Gathering column master keys
+24-10-2021 14:09:54	Gathering external data sources
+24-10-2021 14:09:54	Gathering external file formats
+24-10-2021 14:09:54	Gathering external tables
+24-10-2021 14:09:54	Gathering extended properties
+24-10-2021 14:09:54	Gathering credentials
+24-10-2021 14:09:54	Gathering logins
+24-10-2021 14:09:54	Gathering server audits
+24-10-2021 14:09:54	Scanning project for duplicate elements
+24-10-2021 14:09:54	Finished duplicate element processing
+24-10-2021 14:09:54	Finished importing database.
+24-10-2021 14:09:54	A summary of the import was saved to the following location: C:\Users\renuk\source\repos\BookManagement\BookManagement\Import Schema Logs\BookManagement_20211024083947.log
+24-10-2021 14:09:54	Click Finish to continue...
